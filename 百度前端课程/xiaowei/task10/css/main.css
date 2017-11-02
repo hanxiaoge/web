@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+
+}
+
+li{
+    list-style: none;
+}
+
+.flex-container {
+    /* We first create a flex layout context */
+    display: flex;
+
+    /* Then we define the flow direction and if we allow the items to wrap
+    * Remember this is the same as:
+    * flex-direction: row;
+    * flex-wrap: wrap;
+    */
+    flex-flow: row wrap;
+    /* Then we define how is distributed the remaining space */
+    justify-content: space-around;
+}
+.flex-item {
+    width: 150px;
+    border: 1px solid #f00;
+}
+.flex_one{
+    height: 200px;
+    border-color:blue;
+    order: 1;
+}
+.flex_two{
+    height: 120px;
+}
+.flex_three{
+    height: 100px;
+}
+.flex_four{
+    height: 50px;
+}
+@media only screen and (max-width: 607px){
+    .flex_one{
+        order: 0;
+    }
+}
