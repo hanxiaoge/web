@@ -41,10 +41,10 @@ function initialize(){
 }
 function befoergSearch(node){
 
-     var par=new RegExp(text.value);
+       var value1=node.firstChild.nodeValue.trim();
     if(node){
         rankarr.push(node);
-        if(par.test(node.firstChild.nodeValue)){
+        if(value1==text.value){
             isSearch=true;
         }
         if(!isSearch){
