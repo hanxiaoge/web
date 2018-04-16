@@ -4,16 +4,14 @@
 
  The gitrepository including two project,which are baidu-web-class and myAngular.  
 
-   [baidu](#maangular)
-   myAngular»
 
 ***
-
+### baidu-web-class
 
   The baidu-web-class is a homework of the baidu front-end class,which is very simple demo.I finshed they in Oct.2017
 
 
- ### What's included
+ #### What's included
  
 ```
  baidu-web-class/
@@ -66,7 +64,7 @@
 
 ```
 ***
-#### MyAngular
+### MyAngular
 <p>
   The myangular is the official demo of Angular2.I write the demo refered official document.
 </p>
