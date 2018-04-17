@@ -1,7 +1,10 @@
 
-## Web Demo
-![Alt text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523895936509&di=c839f6ee3240f97d59f113cccc48c4ec&imgtype=0&src=http%3A%2F%2F1.im.guokr.com%2FTCK6eThu1FlqcpM1bBVVltlY3dUpkDo_Nbq89ojfkbHMAQAABAEAAFBO.png)
 
+<h1 align="center">Web Demo</h1>
+ The gitrepository including two project,which are baidu-web-class and myAngular.  
+<div align="center">
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523937761389&di=49733fa95ad61d15c119f7bf70f33155&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170617%2F6691e9cc27ca451ba0e4ac55a0f123dc_th.jpg" width="300px" >
+</div>
  The gitrepository including two project,which are baidu-web-class and myAngular.  
 
 
